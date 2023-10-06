@@ -1,0 +1,15 @@
+.modal-content{
+    background-color: palevioletred;
+}
+.btn-primary{
+    background-color: darkgreen;
+    color: goldenrod;
+    border-color: black;
+}
+.modal-header{
+    background-color: darkblue;
+    color:aliceblue;
+}
+.modal-header .btn{
+    color: white;
+}
